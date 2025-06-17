@@ -9,9 +9,13 @@
 - Создание мини-проектов
 
 ## 📂 Структура
-/
-├── /html-practice - Упражнения по HTML
+
+├── /html-practice - Упражнения по HTML 
+
 ├── /css-practice - Упражнения по CSS
+
 ├── /js-practice - Упражнения по JavaScript
+
 ├── /mini-projects - Небольшие проекты
+
 └── /sandbox - Песочница для экспериментов
